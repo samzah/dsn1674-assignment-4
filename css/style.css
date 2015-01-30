@@ -101,11 +101,19 @@ figure {
   border-radius: 20px;
   border: solid;
   list-style-type: none;
-  padding: 2rem;
+  padding: 2em;
   background-color: #666;
   text-align: center;
+
 }
 
 img {
   width: 100%;
+}
+
+footer {
+  background-color: #666;
+  padding: 1em, 2em, 0.5em, 2em;
+  margin: 0;
+  text-align: left;
 }
