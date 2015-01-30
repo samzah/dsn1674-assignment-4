@@ -1,0 +1,59 @@
+html {
+    background-color: #999;
+    font-family: 'Slabo 13px', serif;
+    font-size: 1rem;
+    text-align: center;
+}
+
+h1{
+  font-weight: normal;
+  font-size: 4rem;
+  font-style: italic;
+  text-decoration: underline;
+  font-family: 'Righteous', cursive;
+  line-height: 1.5;
+  color: #FFAB00;
+}
+
+h2{
+  font-weight: normal;
+  font-size: 2rem;
+  text-decoration: none;
+  font-family: 'Righteous', serif;
+  line-height: 1.5;
+  color: #FFAB00;
+}
+
+ol {
+  list-style-type: lower-roman;
+  padding: 1rem;
+  line-height: 1.5;
+  font-size: 1rem;
+}
+
+nav {
+  list-style-type: none;
+  padding: 1rem;
+}
+
+blockquote{
+  font-size: 1.5rem;
+  color: white;
+}
+
+figcaption{
+  font-size:1.5rem;
+  font-style: italic;
+}
+
+dl{
+    line-height: 1.5;
+}
+
+a {
+  color: #3B2F10;
+}
+
+a:hover {
+  color: white
+}
